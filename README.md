@@ -1,7 +1,3 @@
-Here is an attractive, professional README file for your Fake News Classification using NLP project. You can copy and use this for your repository:
-
----
-
 # 📰 Fake News Classification using NLP
 
 ![Fake News Detection Banner](https://img.freepik.com/free-vector/news-concept-illustration_114360-1675.jpg)
